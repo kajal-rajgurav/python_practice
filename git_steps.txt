@@ -1,0 +1,19 @@
+1.Open your folder in the Code editor
+2. Initialize an empty repository in the same folder (using: git init)
+3. create a file README.md with some message in same folder.
+4. run git add . command to stage your changes.
+5. after that run git commit -m "some message" to commit your changes.
+6. before pushing your changes.
+7. create an repository to your github (https://github.com)
+8. copy the link HTTPS
+9. After git commit, set you branch master to main (git automatically sets an initial branch as master make main branch as your first and initial brach by using following command), git brach -M main.
+10. The last step is to push your code to created repo: git remote add origin <copied link>
+11. now push your changes: git push or git push origin main
+12. refresh your github and see the magic.
+13. to create a brach: git branch homework
+14. to switch use git checkout homework
+
+15. to create and checkout: git checkout -b <branch name>
+
+16. to push your local branch to git hub: git push --set-upstream origin branch_name
+
