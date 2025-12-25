@@ -18,5 +18,12 @@ print(numbers)
 first=numbers[1]
 print(first)
 
+# checking type of numbers 
+print(type(numbers))
+
+mix_tuple = ("Akshay", "Surase", "Kajal", "Rajgurav", 12, 1.22, True)
+print(mix_tuple)
+
+
 
 
