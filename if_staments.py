@@ -3,4 +3,3 @@ if total>100:
     print("free delivery")
 else:
     print("no ")
-    
