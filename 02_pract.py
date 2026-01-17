@@ -19,3 +19,13 @@ while True:
         print("char is digit")
     else:
         print('char is special')
+
+
+fruits = ["apple", "banana", "mango"]
+
+for fruit in fruits:
+    print(fruit)
+
+    for i in range(0, 10, 2):
+    print(i)
+
